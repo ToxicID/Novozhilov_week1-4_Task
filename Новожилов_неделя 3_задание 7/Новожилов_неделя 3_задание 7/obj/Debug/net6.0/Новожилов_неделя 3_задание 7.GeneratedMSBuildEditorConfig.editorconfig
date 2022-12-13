@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Новожилов_неделя_3_задание_7
+build_property.ProjectDir = D:\Учебная практика\Практика\Приложения\Консоль\Новожилов_неделя 3_задание 7\Новожилов_неделя 3_задание 7\
