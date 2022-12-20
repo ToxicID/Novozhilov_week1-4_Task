@@ -325,7 +325,7 @@ do
             double scalar;
             do
             {
-                if (!double.TryParse(Console.ReadLine(), out scalar) || scalar <= 0)
+                if (!double.TryParse(Console.ReadLine(), out scalar))
                 {
                     Console.Write("Произошла ошибка. Попробуйте ещё раз.");
                     continue;
